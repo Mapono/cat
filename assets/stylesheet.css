@@ -1,0 +1,36 @@
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  color: blue;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: blue;
+  width: 80vw;
+  height: 100px;
+}
+main {
+  display: flex;
+  justify-content: center;
+}
+
+#catImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: tomato;
+  border-radius: 50%;
+  width: 530px;
+  height: 530px;
+  margin: 30px;
+}
